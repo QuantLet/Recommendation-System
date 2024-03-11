@@ -1,0 +1,11 @@
+Name of QuantLet : 'recom_try'
+
+Published in : 'Recommendation System' 
+
+Description : 'Sample code for recommendation system'
+
+Keywords : 'bart-large-cnn, llama'
+
+Author : 'Zuo Xiaorui'
+
+Submitted : Mon, Mar 11 2023
